@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,QACF,CAEA,iBACE,0BACF,CAEA,cACE,eACF","file":"main.13803812.chunk.css","sourcesContent":["body {\n  background-color: #f5f5f5;\n  margin: 0px;\n}\n\n.MuiList-padding {\n  padding-bottom: 0px !important;\n}\n\n.appContainer{\n  margin-top: 20px;\n}\n"]}
